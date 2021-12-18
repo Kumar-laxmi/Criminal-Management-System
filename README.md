@@ -6,3 +6,9 @@ It is a GUI Application using Java Swing API
 ### Front-End: Java
 ### Database: MySQL
 
+## Contributors
+- Kumar Laxmikant (myself)
+- Anushka Nambiar
+- Aniket Gupta
+- Aditya Bansal
+
