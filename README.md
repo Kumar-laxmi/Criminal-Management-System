@@ -20,12 +20,14 @@ FIR details which are being filed down manually traditionally. We store all the 
 database from where we could use it further. Thus this project provides a very user friendly
 interface for the officials to store and manage the criminal records. 
 </p>
+
 ### Project Objective
 <p>
   This project intends to provide an effective way for storing, retrieving and managing criminal
 records. It also aims at providing a user friendly interface for effortless interaction with the
 user. 
 </p>
+
 ### Project Scope
 <p>
   This project is confined to storing, retrieving and managing criminal records. In further
