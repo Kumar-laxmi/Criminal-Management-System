@@ -58,19 +58,19 @@ For ER Diagram Click -> <a href="https://github.com/Kumar-laxmi/Criminal-Managem
 Clone the project
 
 ```bash
-  git clone https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System
+  git clone https://github.com/Kumar-laxmi/Criminal-Management-System
 ```
 
 Go to the project directory
 
 ```bash
-  cd Heart-Disease-Prediction-System
+  cd Criminal-Management-System
 ```
 
 Start the server
 
 ```bash
-  python manage.py runserver
+  !!! Yet to be done !!!
 ```
 
 ## Contributors
