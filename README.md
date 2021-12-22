@@ -38,6 +38,9 @@ detections.
 ## UML Diagram
 For UML Digram Click -> <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/UML%20Diagram/UML.pdf">UML Diagram</a>
 
+## ER Diagram
+![ER Diagram](https://via.placeholder.com/468x300?text=https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/ER%20Diagram/ER%20Diagram%20-%20Criminal%20Management%20System.png)
+
 ## Technology Used
 ### IDE:
 - ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
