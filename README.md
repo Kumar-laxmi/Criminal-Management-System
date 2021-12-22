@@ -70,7 +70,7 @@ Go to the project directory
 Start the server
 
 ```bash
-  !!! Yet to be done !!!
+  javac LogIn.java
 ```
 
 ## Contributors
