@@ -64,7 +64,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Criminal-Management-System
+  cd Criminal-Management-System/src/CriminalManagementSystem
 ```
 
 Start the server
