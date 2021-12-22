@@ -36,11 +36,19 @@ detections.
 </p>
 
 ## UML Diagram
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/UML%20Diagram/UML.pdf
+For UML Digram Click -> <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/UML%20Diagram/UML.pdf">UML Diagram</a>
 
 ## Technology Used
+### IDE:
 - ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+- ![Intellijidea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### Language:
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### Database:
+- ![Database](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Contributors
 - Kumar Laxmikant (myself)
