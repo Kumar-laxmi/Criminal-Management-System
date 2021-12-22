@@ -53,6 +53,26 @@ For ER Diagram Click -> <a href="https://github.com/Kumar-laxmi/Criminal-Managem
 ### Database:
 - ![Database](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System
+```
+
+Go to the project directory
+
+```bash
+  cd Heart-Disease-Prediction-System
+```
+
+Start the server
+
+```bash
+  python manage.py runserver
+```
+
 ## Contributors
 - Kumar Laxmikant (myself)
 - Anushka Nambiar
