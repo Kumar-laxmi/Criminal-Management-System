@@ -39,7 +39,7 @@ detections.
 For UML Digram Click -> <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/UML%20Diagram/UML.pdf">UML Diagram</a>
 
 ## ER Diagram
-![ER Diagram](https://via.placeholder.com/https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/ER%20Diagram/ER%20Diagram%20-%20Criminal%20Management%20System.png)
+For ER Diagram Click -> <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/ER%20Diagram/ER%20Diagram%20-%20Criminal%20Management%20System.png">ER Diagram</a>
 
 ## Technology Used
 ### IDE:
