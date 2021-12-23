@@ -50,6 +50,10 @@ For ER Diagram Click -> <a href="https://github.com/Kumar-laxmi/Criminal-Managem
 ### Language:
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+### Frame-Work:
+- ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+
 ### Database:
 - ![Database](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
