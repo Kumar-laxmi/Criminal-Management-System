@@ -83,3 +83,5 @@ Start the server
 - Aniket Gupta
 - Aditya Bansal
 
+### For Detailed Report: <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/REPORT/TEAM%202.pdf">Click Here</a>
+
