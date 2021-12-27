@@ -87,5 +87,7 @@ Start the server
 <p> When the application is executed then LogIn Screen pops-up prompting for authentication</p>
 <img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/LogIn.png" />
 
+<p> There are two options to Log In <br/> Either as an Admin or as an Operator </p>
+
 ### For Detailed Report: <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/REPORT/Team%20-%202.pdf">Click Here</a>
 
