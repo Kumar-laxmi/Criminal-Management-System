@@ -84,14 +84,22 @@ Start the server
 - Aditya Bansal
 
 ## Output Screen-Shots:
-<p> When the application is executed then LogIn Screen pops-up prompting for authentication
+When the application is executed then LogIn Screen pops-up prompting for authentication
 <img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/LogIn.png" />
 
-<p> There are two options to Log In <br/> Either as an Admin or as an Operator </p>
-<p> Id we choose Administrator Radio-Button and give: <br/> Username: </p>
-```bash
-   admin
-```
+There are two options to Log In <br/> Either as an Admin or as an Operator
+If we choose Administrator Radio-Button and give:
+Username:
+
+    admin
+
+Password: 
+   
+    admin123
+
+This will lead to Administrator Page
+And the Page would look like this 
+<img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/Admin1.png" />
 
 ### For Detailed Report: <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/REPORT/Team%20-%202.pdf">Click Here</a>
 
