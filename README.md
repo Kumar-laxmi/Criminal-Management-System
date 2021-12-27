@@ -84,10 +84,14 @@ Start the server
 - Aditya Bansal
 
 ## Output Screen-Shots:
-<p> When the application is executed then LogIn Screen pops-up prompting for authentication</p>
+<p> When the application is executed then LogIn Screen pops-up prompting for authentication
 <img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/LogIn.png" />
 
 <p> There are two options to Log In <br/> Either as an Admin or as an Operator </p>
+<p> Id we choose Administrator Radio-Button and give: <br/> Username: </p>
+```bash
+   admin
+```
 
 ### For Detailed Report: <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/REPORT/Team%20-%202.pdf">Click Here</a>
 
