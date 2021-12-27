@@ -101,5 +101,8 @@ This will lead to Administrator Page
 And the Page would look like this 
 <img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/Admin1.png" />
 
+An admin has full authority to make changes in FIR and Criminal Record as well as Operator Record
+- An Admin can Add, View, Delete and Update Operator record as well as FIR & Criminal Record.
+
 ### For Detailed Report: <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/REPORT/Team%20-%202.pdf">Click Here</a>
 
