@@ -111,5 +111,8 @@ To add new Operator, Click **Add Operator**
 To update existing Operator, Click **Update Operator**
 <img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/OperatorUpdate.png" />
 
+To view existing Operator, Click **View Operator**
+<img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/OperatorView.png" />
+
 ### For Detailed Report: <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/REPORT/Team%20-%202.pdf">Click Here</a>
 
