@@ -139,5 +139,9 @@ To Update existing Criminal Data, click **Update Criminal**
 #### NOTE: Any change in Criminal Data also effects FIR Details pertaining to the Criminal
 <img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/UpdateCriminal.png" />
 
+To Delete existing Criminal Data, click **Delete Criminal**
+#### NOTE: Any change in Criminal Data also effects FIR Details pertaining to the Criminal
+<img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/DeleteCriminal.png" />
+
 ### For Detailed Report: <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/REPORT/Team%20-%202.pdf">Click Here</a>
 
