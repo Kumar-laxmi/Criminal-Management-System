@@ -117,6 +117,8 @@ To view existing Operator, Click **View Operator**
 To delete existing Operator, Click **Delete Operator**
 <img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/OperatorDelete.png" />
 
+###  NOTE: On clicking Home button you will be redirected to default admin page
+
 
 ### For Detailed Report: <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/REPORT/Team%20-%202.pdf">Click Here</a>
 
