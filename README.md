@@ -118,6 +118,9 @@ To view existing Operator, Click **View Operator**
 To delete existing Operator, Click **Delete Operator**
 <img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/OperatorDelete.png" />
 
+To Enter/Register a new FIR, click **Register FIR**
+<img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/RegisterFIR.png" />
+
 To view/retreive a FIR, click **Retrieve FIR**
 <img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/ViewFIR.png" />
 
