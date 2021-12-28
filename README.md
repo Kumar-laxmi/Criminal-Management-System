@@ -130,6 +130,9 @@ To update existing FIR, click **Update FIR**
 To delete exisiting FIR, click **Delete FIR**
 <img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/DeleteFIR.png" />
 
+#### If Admin wants to access only the Criminal Data instead of the FIR Data, that is also possible
+
+
 
 ### For Detailed Report: <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/REPORT/Team%20-%202.pdf">Click Here</a>
 
