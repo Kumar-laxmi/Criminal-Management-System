@@ -119,6 +119,9 @@ To delete existing Operator, Click **Delete Operator**
 
 ###  NOTE: On clicking Home button you will be redirected to default admin page
 
+Now if Admin wants to view existing FIR from Data-Base
+<img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/ViewFIR.png" />
+
 
 ### For Detailed Report: <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/REPORT/Team%20-%202.pdf">Click Here</a>
 
