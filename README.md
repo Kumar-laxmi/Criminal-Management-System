@@ -100,6 +100,7 @@ Password:
 This will lead to Administrator Page
 And the Page would look like this 
 <img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/Admin1.png" />
+###  NOTE: On clicking Home button you will be redirected to default admin page above
 
 An admin has full authority to make changes in FIR and Criminal Record as well as Operator Record
 - An Admin can Add, View, Delete and Update Operator record as well as FIR & Criminal Record.
@@ -116,8 +117,6 @@ To view existing Operator, Click **View Operator**
 
 To delete existing Operator, Click **Delete Operator**
 <img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/OperatorDelete.png" />
-
-###  NOTE: On clicking Home button you will be redirected to default admin page
 
 Now if Admin wants to view existing FIR from Data-Base
 <img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/ViewFIR.png" />
