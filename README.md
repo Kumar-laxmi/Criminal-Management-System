@@ -121,6 +121,9 @@ To delete existing Operator, Click **Delete Operator**
 Now if Admin wants to view existing FIR from Data-Base
 <img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/ViewFIR.png" />
 
+To update existing FIR, click **Update FIR**
+<img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/UpdateFIR.png" />
+
 
 ### For Detailed Report: <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/REPORT/Team%20-%202.pdf">Click Here</a>
 
