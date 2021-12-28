@@ -132,6 +132,8 @@ To delete exisiting FIR, click **Delete FIR**
 
 #### ==> If Admin wants to access only the Criminal Data instead of the FIR Data, that is also possible
 
+To View/Retrieve Criminal Data, click **Retrieve Criminal**
+<img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/RetrieveCriminal.png" />
 
 
 ### For Detailed Report: <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/REPORT/Team%20-%202.pdf">Click Here</a>
