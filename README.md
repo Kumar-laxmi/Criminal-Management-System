@@ -71,7 +71,7 @@ Go to the project directory
   cd Criminal-Management-System/src/CriminalManagementSystem
 ```
 
-Start the server
+Run the application
 
 ```bash
   javac LogIn.java
