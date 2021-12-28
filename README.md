@@ -127,6 +127,9 @@ To view/retreive a FIR, click **Retrieve FIR**
 To update existing FIR, click **Update FIR**
 <img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/UpdateFIR.png" />
 
+To delete exisiting FIR, click **Delete FIR**
+<img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/DeleteFIR.png" />
+
 
 ### For Detailed Report: <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/REPORT/Team%20-%202.pdf">Click Here</a>
 
