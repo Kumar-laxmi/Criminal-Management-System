@@ -147,5 +147,8 @@ To Delete existing Criminal Data, click **Delete Criminal**
 ### If we Login into the application as an Operator then the UI would appear like this:
 <img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/OperatorPage.png" />
 
+As an Operator, we can retrieve/view a FIR Information:
+<img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/RetrieveFIR_OPERATORPAGE.png" />
+
 ### For Detailed Report: <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/REPORT/Team%20-%202.pdf">Click Here</a>
 
