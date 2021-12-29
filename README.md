@@ -144,5 +144,8 @@ To Delete existing Criminal Data, click **Delete Criminal**
 ##### CAUTION: This action will cause deletion of FIR pertaining to that particular Criminal
 <img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/DeleteCriminal.png" />
 
+If we Login into the application as an Operator then the UI would appear like this:
+<img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/OperatorPage.png" />
+
 ### For Detailed Report: <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/REPORT/Team%20-%202.pdf">Click Here</a>
 
