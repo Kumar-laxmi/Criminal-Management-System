@@ -1,4 +1,4 @@
-<img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/Images/banner.png" />
+<img src="" />
 
 ## Abstract
 <p>
