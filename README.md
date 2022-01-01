@@ -1,5 +1,4 @@
-# Criminal-Management-System
-It is a GUI Application using Java Swing API
+<img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/Images/banner.png" />
 
 ## Abstract
 <p>
