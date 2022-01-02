@@ -82,6 +82,10 @@ Run the application
 - Aniket Gupta
 - Aditya Bansal
 
+## Demo Video
+For Demo Video click the link below
+<a href="https://amritacampuschennai-my.sharepoint.com/:v:/g/personal/ch_en_u4cse20039_ch_students_amrita_edu/EZ4vFeSb3z9GgJun-3uPMO4Bj3CWXp8YJhfYP-EjYOE1eA">Click Here</a>
+
 ## Output Screen-Shots:
 When the application is executed then LogIn Screen pops-up prompting for authentication
 <img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/LogIn.png" />
