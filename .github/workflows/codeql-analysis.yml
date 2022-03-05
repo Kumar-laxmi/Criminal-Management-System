@@ -69,8 +69,8 @@ jobs:
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v1
 
-- name: Setup Java JDK
-  uses: actions/setup-java@v2.4.0
+  - name: Setup Java JDK
+  uses: actions/setup-java@v3.0.0
   with:
     # The Java version to set up. Takes a whole or semver Java version. See examples of supported syntax in README file
     java-version: 
