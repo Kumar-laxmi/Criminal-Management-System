@@ -76,11 +76,6 @@ Run the application
   javac LogIn.java
 ```
 
-## Contributors
-- Kumar Laxmikant (myself)
-- Anushka Nambiar
-- Aniket Gupta
-- Aditya Bansal
 
 ## Demo Video
 For Demo Video click the link below
@@ -153,5 +148,5 @@ To Delete existing Criminal Data, click **Delete Criminal**
 As an Operator, we can retrieve/view a FIR Information:
 <img src="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/SCREEN-SHOTS/RetrieveFIR_OPERATORPAGE.png" />
 
-### For Detailed Report: <a href="https://github.com/Kumar-laxmi/Criminal-Management-System/blob/main/REPORT/Team%20-%202.pdf">Click Here</a>
+
 
